@@ -13,8 +13,11 @@ namespace AbuEhabMVCProject.Models
         public int Id { get; set; }
         [Required]
         public string ProjectName { get; set; }
-
         public DateTime  StartDate { get; set; }
         public DateTime  FinishDate { get; set; }
+        public double  CostPrice { get; set; }
+        public virtual User  UserId { get; set; }
+
+
     }
 }

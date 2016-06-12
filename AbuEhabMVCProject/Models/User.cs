@@ -14,6 +14,6 @@ namespace AbuEhabMVCProject.Models
         public string UserName{ get; set; }
         [Required ]
         public string UserPassword { get; set; }
-        public  Project x { get; set; }
+        public string  Status { get; set; }
     }
 }

@@ -12,7 +12,6 @@ namespace AbuEhabMVCProject.Models
 
         public DbSet <Project> Projects { get; set; }
         public DbSet <User> Users { get; set; }
-
         protected override void OnModelCreating(DbModelBuilder AbuEhabBuilder)
         {
             AbuEhabBuilder.Entity<Project>().MapToStoredProcedures();
