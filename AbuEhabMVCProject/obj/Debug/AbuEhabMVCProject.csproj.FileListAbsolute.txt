@@ -59,6 +59,5 @@ C:\Users\MyGla\OneDrive\Documents\GitHub\AbuEhabMVCProject\AbuEhabMVCProject\bin
 C:\Users\MyGla\OneDrive\Documents\GitHub\AbuEhabMVCProject\AbuEhabMVCProject\bin\tr-TR\Kendo.Mvc.resources.dll
 C:\Users\MyGla\OneDrive\Documents\GitHub\AbuEhabMVCProject\AbuEhabMVCProject\bin\uk-UA\Kendo.Mvc.resources.dll
 C:\Users\MyGla\OneDrive\Documents\GitHub\AbuEhabMVCProject\AbuEhabMVCProject\bin\zh-CN\Kendo.Mvc.resources.dll
-C:\Users\MyGla\OneDrive\Documents\GitHub\AbuEhabMVCProject\AbuEhabMVCProject\obj\Debug\AbuEhabMVCProject.csprojResolveAssemblyReference.cache
 C:\Users\MyGla\OneDrive\Documents\GitHub\AbuEhabMVCProject\AbuEhabMVCProject\obj\Debug\AbuEhabMVCProject.dll
 C:\Users\MyGla\OneDrive\Documents\GitHub\AbuEhabMVCProject\AbuEhabMVCProject\obj\Debug\AbuEhabMVCProject.pdb

@@ -148,6 +148,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ActitvityController.cs" />
     <Compile Include="Controllers\BeneficiaryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProjectController.cs" />
@@ -155,6 +156,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Actitvity.cs" />
     <Compile Include="Models\Beneficiary.cs" />
     <Compile Include="Models\MVCProjectData.cs" />
     <Compile Include="Models\Project.cs" />
@@ -907,6 +909,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Actitvity\" />
     <Folder Include="Views\Beneficiary\" />
     <Folder Include="Views\Project\" />
     <Folder Include="Views\User\" />

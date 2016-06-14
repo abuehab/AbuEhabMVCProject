@@ -9,9 +9,9 @@ using System.Web.Mvc;
 
 namespace AbuEhabMVCProject.Controllers
 {
-    public class BeneficiaryController : Controller
+    public class ActitvityController : Controller
     {
-        // GET: Beneficiary
+        // GET: Actitvity
         public ActionResult Index()
         {
             return View();
@@ -20,7 +20,7 @@ namespace AbuEhabMVCProject.Controllers
         {
             using (MVCProjectData db = new MVCProjectData())
             {
-                var q = db.Beneficiaries .ToList();
+                var q = db.Actitvities .ToList();
                 return Json(q.ToDataSourceResult(request));
             }
         }
